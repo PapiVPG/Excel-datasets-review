@@ -1,0 +1,28 @@
+customer_id :
+No addres id: 
+id3
+id10
+id22
+id23
+Empty cells : 
+----------------------------------------------------------------------------
+address :
+Empty cells : 
+address : Correct (O Errors) 
+----------------------------------------------------------------------------
+postcode :
+Empty cells : 
+postcode : Correct (O Errors) 
+----------------------------------------------------------------------------
+state :
+Empty cells : 
+state : Correct (O Errors) 
+----------------------------------------------------------------------------
+country :
+Empty cells : 
+country : Correct (O Errors) 
+----------------------------------------------------------------------------
+property_valuation :
+Empty cells : 
+property_valuation : Correct (O Errors) 
+----------------------------------------------------------------------------
